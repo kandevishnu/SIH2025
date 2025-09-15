@@ -36,7 +36,7 @@ cd your-repo
 🔹 Backend Setup
 cd backend
 npm install
-npm start
+Continue with the setup
 
 🔹 Frontend Setup
 cd frontend
